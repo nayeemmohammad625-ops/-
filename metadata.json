@@ -1,0 +1,7 @@
+{
+  "name": "3D Rickshaw Rush - ৩ডি রিকসা গেম",
+  "description": "একটি উত্তেজনাপূর্ণ ৩ডি কার্টুন রিকসা গেম। যাত্রী পরিবহন করুন, হাইওয়ে পুলিশ এড়িয়ে চলুন এবং ট্রাফিকের মাঝে সাবধানে ড্রাইভ করে টাকা কামান।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
